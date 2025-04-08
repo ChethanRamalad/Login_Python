@@ -29,3 +29,4 @@ positive_test.run_test()
 #To run the test with wrong credentials (negative test)
 #negative_test = LoginTest("wronguser", "wrongpass")
 #negative_test.run_test()
+
